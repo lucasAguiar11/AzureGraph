@@ -91,7 +91,7 @@ namespace AzureGraph
                 PasswordProfile = new PasswordProfile
                 {
                     ForceChangePasswordNextSignIn = false,
-                    Password = "xWwvJ]6NMw+bWH-d"
+                    Password = "xxxxxxxxxx"
                 },
             };
 
